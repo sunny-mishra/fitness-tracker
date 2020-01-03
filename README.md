@@ -5,5 +5,5 @@ Check it out:
 https://fitness-app-angular-b967b.firebaseapp.com/
 
 ### Test credentials:
-email: testing@test.com
+email: testing@test.com <br/>
 password: testing
