@@ -1,5 +1,5 @@
 # fitness-tracker
-Fitness tracker app using Angular2, NgRx, and Firebase
+Fitness tracker app using Angular Material, NgRx, and Firebase
 
 Check it out: 
 https://fitness-app-angular-b967b.firebaseapp.com/
